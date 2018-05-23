@@ -26,3 +26,7 @@ change!
 v <- c(1, 2, 3, 4)
 print(v)
 '''
+
+git branch <name> to create a new branch
+git checkout -b <name> to create and switch to a new branch
+git branch -a to see all branches
