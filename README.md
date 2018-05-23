@@ -32,3 +32,6 @@ git checkout -b <name> to create and switch to a new branch
 git branch -a to see all branches
 git branching practice
 more practice
+
+#Conflicts
+- can edit same file at the same file!
